@@ -21,8 +21,8 @@ or
 
 Press Y to install git and make
 #### After writing those command do this :
-> git clone https://github.com/arshiaas1973/My-Custom-DWM.git
+> git clone https://github.com/arshiaas1973/My-Custom-ST.git
 
-> cd My-Custom-DWM
+> cd My-Custom-ST
 
 > make clean install
